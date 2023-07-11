@@ -14,6 +14,6 @@ public class Product {
     }
 
     public String getInfo() {
-        return "Product: "+ name + "\nPrice: " + price + "zł\nDescription: " + description;
+        return "Product: " + name + "\nPrice: " + price + "zł\nDescription: " + description;
     }
 }
